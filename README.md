@@ -2,7 +2,7 @@
 
 **Firmware & Embedded Systems Engineer | IoT Innovator | MicroPython & C++ Enthusiast**  
 
-I build real-world hardware communication projects, combining **embedded systems, IoT, and Python/C++ firmware** to create functional, innovative solutions. I enjoy turning circuit boards into intelligent devices, exploring BLE, WebSockets, RTC modules, and more.
+I develop **high-performance firmware and real-world IoT systems** for ESP32, STM32, and custom hardware platforms. From BLE communication to WebSocket IoT networks, I turn circuits into intelligent devices.
 
 ---
 
@@ -10,10 +10,13 @@ I build real-world hardware communication projects, combining **embedded systems
 
 | Project | Description | Demo |
 |---------|------------|------|
-| **BLEUART Library** | A versatile MicroPython BLE UART library for ESP32 & STM32. | ![BLEUART Demo](https://github.com/arman41nb/BLEUART/blob/main/demo.gif) |
-| **ESP32 WebSocket Client** | Real-time communication with Flask-based IoT server. | ![WebSocket Demo](https://github.com/arman41nb/ESP32-WebSocket-Client/blob/main/demo.gif) |
-| **DS3231 RTC Custom Firmware** | Set custom time & manage RTC with MicroPython effortlessly. | ![DS3231 Demo](https://github.com/arman41nb/DS3231-Firmware/blob/main/demo.gif) |
-| **Flask IoT Server** | Python backend to handle sensor data and ESP32 communication. | ![Flask Server](https://github.com/arman41nb/Flask-IoT-Server/blob/main/demo.gif) |
+| **BLEUART Library** | MicroPython BLE UART library for ESP32 & STM32. Fast and versatile for embedded communication. | ![BLEUART Demo](https://github.com/arman41nb/BLEUART/blob/main/demo.gif) |
+| **ESP32 WebSocket Client** | Real-time communication with Flask-based IoT server for sensor networks. | ![WebSocket Demo](https://github.com/arman41nb/ESP32-WebSocket-Client/blob/main/demo.gif) |
+| **Flask IoT Server** | Backend to manage ESP32 data, sensor networks, and firmware interactions. | ![Flask Server](https://github.com/arman41nb/Flask-IoT-Server/blob/main/demo.gif) |
+| **DS3231 RTC Custom Firmware** | Set custom time and manage DS3231 RTC easily with MicroPython. | ![DS3231 Demo](https://github.com/arman41nb/DS3231-Firmware/blob/main/demo.gif) |
+| **STM32H750 Custom Board Projects** | MicroPython porting and custom firmware on STM32H750 development board. | *(Add image or GIF)* |
+| **STM32F405 with External Memory** | Microcontroller projects with PSRAM/Flash expansion for better performance. | *(Add image or GIF)* |
+| **IoT & BLE Integrations** | Embedded systems connecting hardware and software seamlessly with BLE/IOT protocols. | *(Add image or GIF)* |
 
 ---
 
@@ -38,26 +41,26 @@ I build real-world hardware communication projects, combining **embedded systems
 
 ## 💡 What I Do
 
-- Develop **MicroPython & C++ firmware** for ESP32 & STM32 boards.  
-- Build **real-world IoT systems**: BLE devices, RTC modules, sensor networks.  
-- Integrate hardware with **Python backend servers** (Flask) for seamless communication.  
-- Optimize embedded systems for **efficiency, reliability, and scalability**.
+- Firmware development for **ESP32 & STM32 boards**  
+- Build **real-world IoT systems**, BLE and WebSocket networks  
+- Integrate **hardware with Python backends** for real-time interaction  
+- Optimize embedded systems for **performance and reliability**
 
 ---
 
-## 📌 How I Organize My Repos
+## 📌 Repository Organization
 
-1. **Pinned Projects**: Highlight BLEUART, ESP32 WebSocket, DS3231 firmware, Flask IoT Server.  
-2. **Category Folders**: `/firmware`, `/hardware`, `/backend`, `/tools`.  
-3. **Naming Convention**: Clear, concise, tech-specific names like `ESP32-BLEUART`, `DS3231-Micropython`.
+- **Pinned Projects**: Highlight top 6–7 recent projects  
+- **Categories**: `/firmware`, `/backend`, `/hardware`, `/tools`  
+- **Clear Repo Names**: ESP32-BLEUART, STM32H750-MicroPython, DS3231-Firmware
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🌱 Currently Learning
 
-- Advanced **STM32 custom boards** and peripherals.  
-- Optimized **embedded WebSocket & MQTT communication**.  
-- Microcontroller **external memory integration** (PSRAM & Flash).
+- Advanced **STM32 custom board peripherals**  
+- Optimized **WebSocket & MQTT communication**  
+- Microcontroller **external memory integration** (PSRAM, Flash)
 
 ---
 
@@ -67,6 +70,4 @@ I build real-world hardware communication projects, combining **embedded systems
 - [LinkedIn](https://www.linkedin.com/in/arman-nejadbagheri)  
 - [Portfolio Website](#) *(Coming Soon)*  
 
----
-
-*“Turning ideas into functional hardware systems with clean firmware and seamless software integration.”* 🚀
+*"Turning ideas into functional hardware systems with clean firmware and seamless software integration."* 🚀
