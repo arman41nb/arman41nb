@@ -14,9 +14,9 @@ I develop **high-performance firmware and real-world IoT systems** for ESP32, ST
 | **ESP32 WebSocket Client** | Real-time communication with Flask-based IoT server for sensor networks. | ![WebSocket Demo](https://github.com/arman41nb/ESP32-WebSocket-Client/blob/main/demo.gif) |
 | **Flask IoT Server** | Backend to manage ESP32 data, sensor networks, and firmware interactions. | ![Flask Server](https://github.com/arman41nb/Flask-IoT-Server/blob/main/demo.gif) |
 | **DS3231 RTC Custom Firmware** | Set custom time and manage DS3231 RTC easily with MicroPython. | ![DS3231 Demo](https://github.com/arman41nb/DS3231-Firmware/blob/main/demo.gif) |
-| **STM32H750 Custom Board Projects** | MicroPython porting and custom firmware on STM32H750 development board. | *(Add image or GIF)* |
-| **STM32F405 with External Memory** | Microcontroller projects with PSRAM/Flash expansion for better performance. | *(Add image or GIF)* |
-| **IoT & BLE Integrations** | Embedded systems connecting hardware and software seamlessly with BLE/IOT protocols. | *(Add image or GIF)* |
+| **STM32H750 Custom Board Projects** | MicroPython porting and custom firmware on STM32H750 development board.
+| **STM32F405 with External Memory** | Microcontroller projects with PSRAM/Flash expansion for better performance.
+| **IoT & BLE Integrations** | Embedded systems connecting hardware and software seamlessly with BLE/IOT protocols.
 
 ---
 
@@ -48,26 +48,10 @@ I develop **high-performance firmware and real-world IoT systems** for ESP32, ST
 
 ---
 
-## 📌 Repository Organization
-
-- **Pinned Projects**: Highlight top 6–7 recent projects  
-- **Categories**: `/firmware`, `/backend`, `/hardware`, `/tools`  
-- **Clear Repo Names**: ESP32-BLEUART, STM32H750-MicroPython, DS3231-Firmware
-
----
-
-## 🌱 Currently Learning
-
-- Advanced **STM32 custom board peripherals**  
-- Optimized **WebSocket & MQTT communication**  
-- Microcontroller **external memory integration** (PSRAM, Flash)
-
----
-
 ## 📫 Connect with Me
 
 - [GitHub](https://github.com/arman41nb)  
 - [LinkedIn](https://www.linkedin.com/in/arman-nejadbagheri)  
-- [Portfolio Website](#) *(Coming Soon)*  
+- [Portfolio Website](#)   
 
 *"Turning ideas into functional hardware systems with clean firmware and seamless software integration."* 🚀
