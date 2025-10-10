@@ -1,5 +1,3 @@
-<!-- 🌟 Professional GitHub Profile README for Arman Nejadbagheri 🌟 -->
-
 <!-- Header -->
 <h1 align="center">✨ Hey there, I'm <span style="color:#00BFFF;">Arman Nejadbagheri</span> 👋</h1>
 
