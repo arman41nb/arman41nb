@@ -25,13 +25,12 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,git,vscode,flask,linux,html" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,git,vscode,flask,thonny" />
   <br/>
   <img src="https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/MicroPython-2C2C2C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-ffcc00?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
