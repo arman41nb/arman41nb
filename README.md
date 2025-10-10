@@ -18,8 +18,6 @@
 👨‍🏫 Teaching **Object-Oriented Programming** & mentoring new developers.  
 🎯 Focused on **creating smart, efficient, and elegant embedded products**.
 
-> “Technology should be both powerful and beautiful — just like good code.”
-
 ---
 
 ### ⚙️ Tech Stack
