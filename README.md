@@ -94,19 +94,6 @@ Perfect for real-time embedded communication.
 
 ---
 
-### 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arman41nb&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman41nb&theme=tokyonight" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman41nb&layout=compact&theme=tokyonight" height="150">
-</p>
-
----
-
 ### 🌐 Connect With Me  
 
 <p align="center">
