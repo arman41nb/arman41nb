@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">✨ Hey there, I'm <span style="color:#00BFFF;">Arman Nejadbagheri</span> 👋</h1>
+<h1 align="center">✨ Hey there, I'm <span style="color:#00BFFF;">Arman Nezhadbagheri</span> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00BFFF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Developer;Python+%26+MicroPython+Engineer;Hardware+Designer+%26+Innovator;IoT+and+AI+Integrator+💡" alt="Typing SVG">
