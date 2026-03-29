@@ -10,7 +10,7 @@
 ### 💫 About Me  
 
 🧠 Passionate **Embedded Systems Developer** who loves blending **hardware and intelligence**.  
-🔌 Experienced in designing and programming **ESP32 / STM32 / STM8** boards.  
+🔌 Experienced in designing and programming **ESP / STM / ARM / AVR ** boards.  
 🐍 Fluent in **Python**, **MicroPython**, **C/C++**, and **real-time embedded logic**.  
 📡 Skilled in **BLE**, **WebSocket**, and **IoT systems**.  
 👨‍🏫 Teaching **Object-Oriented Programming** & mentoring new developers.  
